@@ -1,5 +1,10 @@
 # Python for Teachers
 
+[![MIT](https://img.shields.io/apm/l/vim-mode?logo=GitHub)](https://github.com/Roshanmahes/Python-for-Teachers/blob/master/LICENSE)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Roshanmahes/Python-for-Teachers/master?filepath=Notebooks)
+
+<div class="github-repo-button" repo="Roshanmahes/Python-for-Teachers" stars></div>
+
 In this course, teachers with different experiences in programming get an overview of the most relevant packages and tools available for Python, and learn how they can be applied in teaching and research. This is a flexible course. We offer weekly lectures and Q&A-sessions, but we expect you to formulate your own goals. We do not offer a full blown Python-course. We just try to offer motivation and guide you through the (advanced) material which is available online.
 
 A few suggestions for the personal goals for this course: they can be educational (to create Python-examples for your classes) or they be research-oriented. Goals can also be recreational or can be motivated by the news (corona). A list of mathematically oriented programming challenges can be found in the [Euler Project](https://projecteuler.net/).
