@@ -21,7 +21,7 @@ We will work with the integrated development environment (IDE) Jupyter. It uses 
 The schedule is as follows:
 
 1. Scientific Computing: `numpy` & `scipy`
-2. Data Analysis: `pandas` & `scikit-Learn`
+2. Data Analysis: `pandas` & `scikit-learn`
 3. Data Visualization: `matplotlib` & `plotly`
 4. Symbolic Computation: `sympy`
 5. Statistical Modeling: `seaborn` & `statsmodels`
