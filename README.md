@@ -1,6 +1,7 @@
 # Python for Teachers
 
 [![MIT](https://img.shields.io/apm/l/vim-mode?logo=GitHub)](https://github.com/Roshanmahes/Python-for-Teachers/blob/master/LICENSE)
+[![JupyterLab](https://img.shields.io/badge/Launch-JupyterLab-orange?logo=jupyter)](https://mybinder.org/v2/gh/Roshanmahes/Python-for-Teachers/master?urlpath=lab/tree/Notebooks/0%20-%20Jupyter%20Overview.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Roshanmahes/Python-for-Teachers/master?filepath=Notebooks)
 
 <div class="github-repo-button" repo="Roshanmahes/Python-for-Teachers" stars></div>
